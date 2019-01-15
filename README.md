@@ -7,7 +7,7 @@ M: [0412 460 371](tel:0412460371)
 - 18+ years of experience as a web application software developer
 - Full stack skill-set with a concentration on back-end engineering
 - Leads a team of experienced developers
-- Architects web appication stacks and automated CI &amp; deployment pipelines
+- Architects web application stacks and automated CI &amp; deployment pipelines
 - Employee #1 at several successful start-ups
 - Core team member of the open source [cfwheels.org](https://cfwheels.org) project
 - Authored numerous open source framework plugins
