@@ -35,7 +35,7 @@ M: [0412 460 371](tel:0412460371)
 Lead Software Developer
 *April 2013 &ndash; Present*
 
-- Develop &amp; maintain zenu.com.au Saas Plaform
+- Architect, develop &amp; maintain zenu.com.au Saas Plaform
 
 **cfwheels.org**
 Core Team Member
