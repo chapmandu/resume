@@ -4,7 +4,7 @@
 E: [adampchapman@gmail.com](mailto:adampchapman@gmail.com) |
 M: [0412 460 371](tel:0412460371)
 
-- 18+ years of experience as a web application software developer
+- 20+ years of experience as a web application software developer
 - Full stack skill-set with a concentration on back-end engineering
 - Leads a team of experienced developers
 - Architects web application stacks and automated CI &amp; deployment pipelines
@@ -23,7 +23,7 @@ M: [0412 460 371](tel:0412460371)
 - Databases &ndash; MS SQL Server, MySQL, PostgreSQL
 - Cloud &ndash; Amazon Web Services
 - Email Distribution &ndash; Mailgun, Amazon SES
-- Performance Monitoring &ndash; New Relic
+- Performance Monitoring &ndash; New Relic, FusionReactor
 - Methodologies &ndash; Agile, Scrum
 - UI &ndash; Mobile-first Design, Responsive Web Design, Graphic Design
 - Automation Software &ndash; Webpack, Gulp, Jenkins, Docker, Vagrant, VirtualBox
